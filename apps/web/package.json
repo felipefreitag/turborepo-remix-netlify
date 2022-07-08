@@ -8,6 +8,7 @@
     "deploy": "netlify deploy --prod"
   },
   "dependencies": {
+    "@felipefreitag/my-fake-package": "2.0.0",
     "@netlify/functions": "^1.0.0",
     "@remix-run/netlify": "^1.6.4",
     "@remix-run/node": "^1.6.4",
